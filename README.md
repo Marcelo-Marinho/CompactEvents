@@ -14,7 +14,7 @@ Here is some examples:
 > This is the first version of this plugin, updates coming soon...
 
 ## Download
-You can download this plugin in the itch.io or in releases.
+You can download this plugin in the [itch.io](https://psycofemboy.itch.io/compact-events-gb-studio) or in releases.
 
 After downloading the plugin, put it in the plugins folder, like this:
 ```
