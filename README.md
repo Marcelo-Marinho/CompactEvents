@@ -18,8 +18,8 @@ You can download this plugin in the itch.io or in releases.
 
 After downloading the plugin, put it in the plugins folder, like this:
 ```
-:file_folder:	 GameProject
-└ :file_folder: assets
-└ :open_file_folder: plugins
-  └ :open_file_folder: Extract_here
+📁 GameProject
+└ 📁 assets
+└ 📂 plugins
+  └ 📂 Extract_here
 ```
