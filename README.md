@@ -9,3 +9,6 @@ This is a plugin to compact some repetitive scripts, just this.
 Here is some examples:
 
 ![img1](./imgs/img1.png)
+
+> [!NOTE]
+> This is the first version of this plugin, updates coming soon...
